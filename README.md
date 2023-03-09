@@ -1,3 +1,5 @@
+
+
 # EDA_capstone_project
 # Objective
 The main objective is that to perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other and which is the best time for booking .
@@ -54,17 +56,18 @@ The main objective is that to perform EDA on the given dataset and draw useful c
 # Exploratory data analysis 
 1) Hotels type ratio?
 2) which month has maximum arrival in the year ?
-3) which year has maximum booking ?
-4) From which country the most guests came?
+3) Yearwise booking ?
+4)From which country the most guests came?
 5) Most Number of Guest ?
 6) How many booking cancelled ?
 7) monthly cancellations?
 8) market segment wise booking?
-9) which is the busiest month for hotel booking?
-10) Which is the busiest month for Resort and City Hotel?
-11) night stay?
-12) Which is the home country of guest?
- 
+9) What is the Percentage of repeated guests?
+10)Which type of food is mostly preferred by the guests?
+11) which is the busiest month for hotel booking
+12)Which is the busiest month for Resort and City Hotel?
+13)night stay
+14)Which is the home country of guest?
 
 
 
