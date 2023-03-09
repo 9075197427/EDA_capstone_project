@@ -1,3 +1,4 @@
+![1604366070751](https://user-images.githubusercontent.com/120714922/224010231-ce4a4db8-8c3d-4e21-8b4c-91748137adeb.png)
 
 
 # EDA_capstone_project
@@ -55,19 +56,19 @@ The main objective is that to perform EDA on the given dataset and draw useful c
   
 # Exploratory data analysis 
 1) Hotels type ratio?
-2) which month has maximum arrival in the year ?
-3) Yearwise booking ?
-4)From which country the most guests came?
-5) Most Number of Guest ?
-6) How many booking cancelled ?
-7) monthly cancellations?
-8) market segment wise booking?
-9) What is the Percentage of repeated guests?
-10)Which type of food is mostly preferred by the guests?
-11) which is the busiest month for hotel booking?
-12)Which is the busiest month for Resort and City Hotel?
-13)night stay?
-14)Which is the home country of guest?
+2)  which month has maximum arrival in the year ?
+3)  Yearwise booking ?
+4)  From which country the most guests came?
+5)  Most Number of Guest ?
+6)  How many booking cancelled ?
+7)  monthly cancellations?
+8)  market segment wise booking?
+9)  What is the Percentage of repeated guests?
+10)  Which type of food is mostly preferred by the guests?
+11)  which is the busiest month for hotel booking?
+12)  Which is the busiest month for Resort and City Hotel?
+13)  night stay?
+14)  Which is the home country of guest?
 
 
 
