@@ -71,7 +71,7 @@ The main objective is that to perform EDA on the given dataset and draw useful c
 14)  Which is the home country of guest?
 
 
-#conclusion
+# conclusion
 
 (1) The pie chart reveals that 66% of the hotels in the dataset are city hotels and the other 34% are resort hotels.
 
