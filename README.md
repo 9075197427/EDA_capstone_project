@@ -71,7 +71,31 @@ The main objective is that to perform EDA on the given dataset and draw useful c
 14)  Which is the home country of guest?
 
 
+#conclusion
 
+(1) The pie chart reveals that 66% of the hotels in the dataset are city hotels and the other 34% are resort hotels.
+
+(2)the months of November to March are off-peak periods for hoteliers. Between June and the end of August, attendance is at its peak, it is the high season.
+
+(3)the booking for city hotel is higher than resort yearwise.
+
+(4) Most of the guests came from european countries, with most of guests coming from Portugal.
+
+(5) the most number of guests are 48483 which is from Portugal.
+
+(6)more than 30000 booking were cancelled in city hotel followed by more than 10000 in resort hotel.
+
+(7) most of the transient customers had cancelled the booking.
+
+(8)Most of the market_segment used Online TA and Offline TA/TO
+
+(9)Repeated guests are very few which is only 3.1 %. In order to retained the guests , hotels/resort management should take feedback from the guests in order to imporve their services.
+
+(10)most preferred meal type by the guests is BB.
+
+(11)most of the busiest months are July and August
+
+(12)City hotel has maximum booking from the month April to September but after that there is fall down in booking Now for the Resort hotel March-May,June-August and November-January is busiest month
 
 
 
