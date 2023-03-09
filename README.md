@@ -64,10 +64,22 @@ The main objective is that to perform EDA on the given dataset and draw useful c
 8) market segment wise booking?
 9) What is the Percentage of repeated guests?
 10)Which type of food is mostly preferred by the guests?
-11) which is the busiest month for hotel booking
+11) which is the busiest month for hotel booking?
 12)Which is the busiest month for Resort and City Hotel?
-13)night stay
+13)night stay?
 14)Which is the home country of guest?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
